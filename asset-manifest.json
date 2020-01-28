@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/speech-to-twitter-app/static/css/main.0a27195e.chunk.css",
+    "main.js": "/speech-to-twitter-app/static/js/main.2dabf1ff.chunk.js",
+    "main.js.map": "/speech-to-twitter-app/static/js/main.2dabf1ff.chunk.js.map",
+    "runtime-main.js": "/speech-to-twitter-app/static/js/runtime-main.f7a8da24.js",
+    "runtime-main.js.map": "/speech-to-twitter-app/static/js/runtime-main.f7a8da24.js.map",
+    "static/js/2.0ab76594.chunk.js": "/speech-to-twitter-app/static/js/2.0ab76594.chunk.js",
+    "static/js/2.0ab76594.chunk.js.map": "/speech-to-twitter-app/static/js/2.0ab76594.chunk.js.map",
+    "index.html": "/speech-to-twitter-app/index.html",
+    "precache-manifest.d04053022a9fd82a4ab7de7522e90e18.js": "/speech-to-twitter-app/precache-manifest.d04053022a9fd82a4ab7de7522e90e18.js",
+    "service-worker.js": "/speech-to-twitter-app/service-worker.js",
+    "static/css/main.0a27195e.chunk.css.map": "/speech-to-twitter-app/static/css/main.0a27195e.chunk.css.map",
+    "static/js/2.0ab76594.chunk.js.LICENSE": "/speech-to-twitter-app/static/js/2.0ab76594.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7a8da24.js",
+    "static/js/2.0ab76594.chunk.js",
+    "static/css/main.0a27195e.chunk.css",
+    "static/js/main.2dabf1ff.chunk.js"
+  ]
+}
